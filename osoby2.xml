@@ -22,6 +22,23 @@
             </predmet>
         </predmety>
     </osoba>
+    <osoba osCislo='R1234'>
+        <jmeno>Zuzana</jmeno>
+        <prijmeni>Skotnicová</prijmeni>
+        <stav>studuje</stav>
+        <obor>KMA</obor>
+        <rocnik>1</rocnik>
+        <email>zuzana.skotnicova01@upol.cz</email>
+        <pohlavi>zena</pohlavi>
+        <kredity>6</kredity>
+        <predmety>
+            <predmet>
+                <zkratka>MA1</zkratka>
+                <nazev>Matematická analýza 1</nazev>
+                <kredity>6</kredity>
+            </predmet>
+        </predmety>
+    </osoba>
     <osoba osCislo='R1246'>
         <jmeno>Hana</jmeno>
         <prijmeni>Holíková</prijmeni>
